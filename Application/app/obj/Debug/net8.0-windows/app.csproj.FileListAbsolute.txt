@@ -1,0 +1,17 @@
+D:\Документы\CoursePaperDBMS\Application\app\bin\Debug\net8.0-windows\app.exe
+D:\Документы\CoursePaperDBMS\Application\app\bin\Debug\net8.0-windows\app.deps.json
+D:\Документы\CoursePaperDBMS\Application\app\bin\Debug\net8.0-windows\app.runtimeconfig.json
+D:\Документы\CoursePaperDBMS\Application\app\bin\Debug\net8.0-windows\app.dll
+D:\Документы\CoursePaperDBMS\Application\app\bin\Debug\net8.0-windows\app.pdb
+D:\Документы\CoursePaperDBMS\Application\app\obj\Debug\net8.0-windows\app.Form1.resources
+D:\Документы\CoursePaperDBMS\Application\app\obj\Debug\net8.0-windows\app.csproj.GenerateResource.cache
+D:\Документы\CoursePaperDBMS\Application\app\obj\Debug\net8.0-windows\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\CoursePaperDBMS\Application\app\obj\Debug\net8.0-windows\app.AssemblyInfoInputs.cache
+D:\Документы\CoursePaperDBMS\Application\app\obj\Debug\net8.0-windows\app.AssemblyInfo.cs
+D:\Документы\CoursePaperDBMS\Application\app\obj\Debug\net8.0-windows\app.csproj.CoreCompileInputs.cache
+D:\Документы\CoursePaperDBMS\Application\app\obj\Debug\net8.0-windows\app.dll
+D:\Документы\CoursePaperDBMS\Application\app\obj\Debug\net8.0-windows\refint\app.dll
+D:\Документы\CoursePaperDBMS\Application\app\obj\Debug\net8.0-windows\app.pdb
+D:\Документы\CoursePaperDBMS\Application\app\obj\Debug\net8.0-windows\app.genruntimeconfig.cache
+D:\Документы\CoursePaperDBMS\Application\app\obj\Debug\net8.0-windows\ref\app.dll
+D:\Документы\CoursePaperDBMS\Application\app\obj\Debug\net8.0-windows\app.AddEmployee.resources
